@@ -55,3 +55,4 @@ explanation](http://stackoverflow.com/questions/4185017/maximum-number-of-bash-a
 
 TODO: ask sequencing center about adapters
 # zmays-snps
+Samples expected from sequencing core 2013-01-10
